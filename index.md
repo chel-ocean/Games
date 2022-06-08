@@ -2,7 +2,7 @@
 
 Howdy! I am an engineering student who no longer wants to be an engineer, so I am currently on working towards game and software development. Here are a few projects I am working on.
 
-To see/play these games yourself, please visit [Link]https://captflufferbunz.itch.io/.
+To see/play these games yourself, please visit [https://captflufferbunz.itch.io/].
 
 ### Markdown
 
