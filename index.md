@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Chelsea Yang
 
-You can use the [editor on GitHub](https://github.com/chel-ocean/Games/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Howdy! I am an engineering student who no longer wants to be an engineer, so I am currently on working towards game and software development. Here are a few projects I am working on.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To see/play these games yourself, please visit [Link]https://captflufferbunz.itch.io/.
 
 ### Markdown
 
